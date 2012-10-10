@@ -1,4 +1,4 @@
 forex-shark
 ===========
 
-A semester project in Silverlight for Windows Phone 7.
+A semester project in Eclipse for Android.
